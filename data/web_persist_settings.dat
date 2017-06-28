@@ -1,0 +1,17 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2017/06/28 16:24:11
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2017/06/28 16:26:55
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2017/06/28 16:28:47
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2017/06/28 16:31:11
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2017/06/28 16:33:59
+StartRecordingIsDst_5=0
+[UserHomePage]
+UserHomePage=res://iesetup.dll/HardAdmin.htm
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+[Security]
+UsingPersistForAuthentication=1
